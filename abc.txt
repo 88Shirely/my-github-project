@@ -1,1 +1,3 @@
 hello world
+关注功能
+转发功能
